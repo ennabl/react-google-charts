@@ -255,7 +255,7 @@ export type GoogleChartPackages =
   | "treemap"
   | "wordtree";
 
-export type GoogleChartVersion = "current" | "upcoming";
+export type GoogleChartVersion = "current" | "upcoming" | string;
 
 export type GoogleDataTableColumnType =
   | "string"
