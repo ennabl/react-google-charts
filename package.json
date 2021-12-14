@@ -1,6 +1,6 @@
 {
   "name": "@ennabl/react-google-charts",
-  "version": "3.0.15-2",
+  "version": "3.0.15-3",
   "description": "react-google-charts React component",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
